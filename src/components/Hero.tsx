@@ -8,8 +8,8 @@ const Hero = () => {
       
       <div className="container mx-auto px-6 text-center relative z-10">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in">
-          <span className="gradient-text text-glow">Intelligence</span>{" "}
-          <span className="text-foreground">Reimagined</span>
+          <span className="gradient-text text-glow">Puzzle</span>{" "}
+          <span className="text-foreground">Complete</span>
         </h1>
         
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-in" style={{ animationDelay: "0.1s" }}>
